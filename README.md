@@ -18,9 +18,14 @@ Bienvenido a esta **Aplicación de Inicio de Sesión** construida en PHP. Esta a
 - CSS
 - Bootstrap (opcional)
 
+
+Video de Ejemplo
+Para ver un video que demuestra el uso de la aplicación, revisa el siguiente enlace:
+[Ver video](videos/EjemploUso.mp4)
+
 ## Instalación
 
-Para instalar y ejecutar esta aplicación en tu entorno local, sigue estos pasos: Tener un Docker o XAMPP con Apache.
+Para instalar y ejecutar esta aplicación en tu entorno local, sigue estos pasos (Tener un Docker o XAMPP con Apache o otro host).
 
 1. **Clona el repositorio**:
 
