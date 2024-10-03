@@ -1,7 +1,8 @@
 <?php
 if (!isset($_POST['usuario']) || !isset($_POST['contrasenia'])) {
 
-    header('http://localhost/247login.html');
+    header('Location: http://localhost/247login.html');
+    exit();
 } else {
 
     $usuarios = [
