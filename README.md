@@ -21,7 +21,7 @@ Bienvenido a esta **Aplicación de Inicio de Sesión** construida en PHP. Esta a
 
 Video de Ejemplo
 Para ver un video que demuestra el uso de la aplicación, revisa el siguiente enlace:
-[Ver video](videos/EjemploUso.mp4)
+[Ver video](video/EjemploUso.mp4)
 
 ## Instalación
 
